@@ -18,4 +18,4 @@ Table of Contents:
   *  Lesson no.4
    * Challenge (D)
   *  Lesson no.5
-   * Challenge (E)
+   * Challenge (E) 
